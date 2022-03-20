@@ -1,0 +1,17 @@
+.App {
+  
+  text-align: center;
+}
+
+
+header{
+  height: 77px;
+  border-bottom: 1px solid #CCC;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a{
+  margin-left: 15px;
+}
